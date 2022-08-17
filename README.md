@@ -1,0 +1,2 @@
+# postmandeneme
+ hata alma sorunu
